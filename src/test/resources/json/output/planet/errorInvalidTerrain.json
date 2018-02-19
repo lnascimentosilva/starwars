@@ -1,4 +1,4 @@
 {
 	"errorIdentification": "planet.invalidField.terrain",
-	"errorDescription": ""
+	"errorDescription": "may not be null"
 }

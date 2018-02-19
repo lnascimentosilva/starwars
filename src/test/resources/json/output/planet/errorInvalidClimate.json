@@ -1,4 +1,4 @@
 {
 	"errorIdentification": "planet.invalidField.climate",
-	"errorDescription": ""
+	"errorDescription": "may not be null"
 }

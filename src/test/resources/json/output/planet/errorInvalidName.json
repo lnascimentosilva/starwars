@@ -1,4 +1,4 @@
 {
 	"errorIdentification": "planet.invalidField.name",
-	"errorDescription": ""
+	"errorDescription": "may not be null"
 }
